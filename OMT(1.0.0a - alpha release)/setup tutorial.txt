@@ -1,0 +1,2 @@
+1. Open setup.bat
+2. Open start.bat
