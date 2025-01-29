@@ -1,9 +1,3 @@
-
-Here's a .bat file that automates downloading and installing Python, as well as the requests and customtkinter libraries. This script assumes the system is running Windows and the user has administrative privileges.
-
-bat
-Kopiuj
-Edytuj
 @echo off
 REM Script to download and install Python, requests, and customtkinter
 
